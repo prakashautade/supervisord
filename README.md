@@ -1,4 +1,4 @@
-# supervisord ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# supervisord
 
 Docker with base image [ubuntu:16.04](https://hub.docker.com/_/ubuntu/) and [Supervisord](http://supervisord.org)
 
