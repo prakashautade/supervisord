@@ -15,4 +15,3 @@ ADD supervisord.conf /etc/supervisord.conf
 
 # default command
 CMD ["supervisord", "-c", "/etc/supervisord.conf"]
-
